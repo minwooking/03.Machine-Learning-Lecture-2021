@@ -1,2 +1,2 @@
 # Machine Learning
-"# 03.MachineLearning" 
+## 한국경제신문과제주테크노파크에서 주관한 AI 빅데이터 전문가 양성 과정 입니다. 21년 11월 ~ 22년 4월
